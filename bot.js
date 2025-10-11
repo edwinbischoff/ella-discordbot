@@ -8,8 +8,10 @@ const client = new Client({
   ],
 });
 
-const TOKEN = "YOUR_BOT_TOKEN";       // replace with your bot token
-const TARGET_ROLE_ID = "ROLE_ID";     // replace with the role you want to auto-remove
+import 'dotenv/config';  // if using a .env file locally
+const TOKEN = process.env.TOKEN;
+
+const TARGET_ROLE_ID = "1426431045905154152";     // replace with the role you want to auto-remove
 
 client.once("ready", () => {
   console.log(`Logged in as ${client.user.tag}`);
