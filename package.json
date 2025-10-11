@@ -1,8 +1,12 @@
 {
-  "name": "Ella Bot",
-  "version": "0.1.0",
+  "name": "ella-discordbot",
+  "version": "0.1.1",
   "main": "bot.js",
-  "scripts": { "start": "node bot.js" },
-  "dependencies": { "discord.js": "^14.15.2" }
-  "scripts": { "start": "node bot.js" }
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.2",
+    "dotenv": "^16.3.1"
+  }
 }
