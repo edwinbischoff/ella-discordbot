@@ -1,7 +1,13 @@
-The use of this bot has been attempted to be made to be understood by any and all Club Officers willing to help this bot stay online and be expandable.
+The use of this bot has been made to be understood by any and all Club Officers willing to help this bot stay online and/or expand it's usage.
 
-This bot is named after the '25 President's pet rabbit, Ella, who was rehomed.
+This bot is named after Kassandra's rabbit, Ella, who was re-homed under her, and later her partner's, care (2021-Present).
 
-The bot is coded under bot.js with package.json using discord.js (see documentation of discord.js at https://discord.js.org/docs/packages/discord.js/14.23.2)
+The bot is coded under bot.js (with package.json) using discord.js with the Bot Token hidden by an .env file not uploaded.
+- See documentation of discord.js at https://discord.js.org/docs/packages/discord.js/14.23.2)
+- See documentation of .env at https://www.dotenv.org/docs
 
-The bot token is saved in a .env file not stored here (see documentation of .env at https://www.dotenv.org/docs/), contact edwinbischoff for .env file if needed.
+Thanks to the following contributors:
+- Thomas Bischoff
+- Kassandra Faylun
+
+(c) Knights for Animal Rights. All Rights Reserved.
