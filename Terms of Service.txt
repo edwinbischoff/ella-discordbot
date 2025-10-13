@@ -1,12 +1,8 @@
 Terms of Service - Ella Bot
-v1
+v2
 
-By using this bot, you agree to these Terms of Service. If you do not agree, do not use the bot.
+Ella Bot for private use. Do not use Ella Bot without permission from the development team.
 
-You may use the bot only in accordance with Discord’s Terms of Service and Community Guidelines. Misuse, spam, or any activity that violates Discord’s rules or applicable laws is prohibited.
+For questions about policy contact the development team on Github.
 
-The developent team is not responsible for any damages, losses, or consequences arising from the use or inability to use the bot. Use at your own risk.
-
-These Terms may be updated without prior notice.
-
-For questions about policy or data use contact the development team on Github.
+© 2025 Knights for Animal Rights. All rights reserved.

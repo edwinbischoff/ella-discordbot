@@ -1,6 +1,10 @@
 Privacy Policy - Ella Bot
-v1
+v2
 
 "Ella Bot" does not collect or store any information except that which is used for processing it's code. Cached data is held in memory for as long as required and may be run on third party hosting servers.
+
+Cached data that users should be aware of includes but is not limited to:
+- member roles and IDs
+- members joining
 
 For questions about policy or data use contact the development team on Github.
